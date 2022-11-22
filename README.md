@@ -15,7 +15,7 @@ The scope of the project is to analyze the overall performance of the schools in
 - Average score are 79 in Maths and 81.9 in Reading
 - Overall passing % is 65%, where as in Math it is 75% and in Reading it is 86%
 
-![](images/District Summary.png)
+![](images/District Summary)
 
 ### School Summary 
 
