@@ -80,4 +80,3 @@ The scope of the project is to analyze the overall performance of the schools in
 
 After analyzing the data we can say that Pena High School performs the highest overall in the district. The number of students is affecting the performance of schools, Medium & Small size schools are performing better as compared to Larger size schools. Overall Charter schools are performing better than District types of schools.
 Spending more budget on schools is not increasing performance or can not have a positive relationship on the overall result of schools because as you see in the image "Scores by School Spending" spending more negatively effecting on the school results.  
-
